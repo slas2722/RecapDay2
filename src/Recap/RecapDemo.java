@@ -6,5 +6,9 @@ public class RecapDemo {
 		
 		System.out.println("Recap");
 	}
+	public void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
+
 
 }
